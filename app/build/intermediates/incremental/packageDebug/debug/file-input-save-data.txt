@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Thu Feb 22 14:14:50 CET 2018
+1.base=D\:\\Google Drive\\Toy\\Processing\\visualizadores_OSC\\wp_1_Android\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=config.xml
+0.set=ASSET
+0.base=D\:\\Google Drive\\Toy\\Processing\\visualizadores_OSC\\wp_1_Android\\android\\app\\build\\intermediates\\assets\\debug
+1.path=classes.dex

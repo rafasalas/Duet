@@ -1,0 +1,4 @@
+#Thu Feb 22 14:14:50 CET 2018
+base.0=D\:\\Google Drive\\Toy\\Processing\\visualizadores_OSC\\wp_1_Android\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

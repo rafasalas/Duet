@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<config>
+
+	<titulo>hhtm.mp3</titulo>
+	<numeroparticulas>250</numeroparticulas>
+	<tipoparticulas>1</tipoparticulas>
+	<colorfondo>0</colorfondo>
+	<factor>0.5</factor>
+</config>
