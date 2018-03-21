@@ -1,10 +1,13 @@
 package processing.test.wp_1_android;
 
+import android.Manifest;
 import android.app.Activity;
 import android.app.WallpaperManager;
 import android.content.ComponentName;
 import android.content.Intent;
 import android.content.pm.ActivityInfo;
+import android.content.pm.PackageManager;
+import android.support.v4.app.ActivityCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -23,7 +26,11 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         addlistenerOnButton();
 
-
+        if (ActivityCompat.checkSelfPermission(this, Manifest.permission.RECORD_AUDIO) != PackageManager.PERMISSION_GRANTED)
+        {
+            ActivityCompat.requestPermissions(this,new String[]{android.Manifest.permission.RECORD_AUDIO}, 1);
+        }
+        //
 
 
     }
@@ -37,7 +44,8 @@ public class MainActivity extends Activity {
 
             @Override
             public void onClick(View v) {
-
+                final global dataglobal = (global) getApplicationContext();
+                dataglobal.setPlayer(true);
 
                     WallpaperManager wallcachas = WallpaperManager.getInstance(getApplicationContext());
                     try {

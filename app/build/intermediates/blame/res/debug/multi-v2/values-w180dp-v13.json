@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Google Drive\\Toy\\Processing\\visualizadores_OSC\\wp_1_Android\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w180dp-v13\\values-w180dp-v13.xml",
+            "outputFile": "D:\\rafa\\lazona\\gdrive2\\Toy\\Processing\\android_2018\\Duet\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w180dp-v13\\values-w180dp-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\salas\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.0.5.aar\\d132cf421e90596effc8a8cd1ebfbaec\\res\\values-w180dp-v13\\values.xml",

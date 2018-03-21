@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Google Drive\\Toy\\Processing\\visualizadores_OSC\\wp_1_Android\\android\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v24\\values-v24.xml",
+            "outputFile": "D:\\rafa\\lazona\\gdrive2\\Toy\\Processing\\android_2018\\Duet\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
                     "source": "C:\\Users\\salas\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\2cd558520fcd803e3f21ecbca7d1a1b6\\res\\values-v24\\values-v24.xml",

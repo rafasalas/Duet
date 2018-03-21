@@ -1,6 +1,8 @@
 package processing.test.wp_1_android;
 
-import processing.core.*; 
+import android.content.Context;
+
+import processing.core.*;
 import processing.data.*; 
 import processing.event.*; 
 import processing.opengl.*; 
@@ -48,11 +50,18 @@ ArrayList<Storsimple> estorninos;
 float flujo =1;
 Atractor central, lateral1, lateral2, lateral3,lateral4;
 int color_fondo, color_particula;
-
+Context context;
 //Variables de OSC
 OscP5 oscP5;
 NetAddress dest;
+final global dataglobal;
+boolean player;
 
+public wp_1_Android(Context context){
+    super();
+    this.context=context;
+    dataglobal = (global) context;
+}
 
 public void setup (){//size (800,750, P2D);
               
@@ -67,7 +76,7 @@ public void setup (){//size (800,750, P2D);
            //Factor=float(Xfactor.getContent());
            Factor=1;
           
-           
+           player=dataglobal.getPlayer();
   
              
      
@@ -136,6 +145,10 @@ background(color_fondo);
  //setGradient(0, 0, width/2, height, b2, b1, X_AXIS);
   //setGradient(width/2, 0, width/2, height, b1, b2, X_AXIS);
   noFill();
+    player=dataglobal.getPlayer();
+
+    if (player=true){flujo=dataglobal.getIntensity();}
+
   central.sentido=-1-flujo; 
 lateral1.sentido=-0.5f*flujo;
 lateral2.sentido=-0.5f*flujo;
@@ -162,7 +175,7 @@ s.dibujaparticulas(radial, centro,tension);
 
 //This is called automatically when OSC message is received
 public void oscEvent(OscMessage theOscMessage) {
- if (theOscMessage.checkAddrPattern("/intensidad")==true) {
+ if (theOscMessage.checkAddrPattern("/intensidad")==true && player==false) {
      
         flujo = theOscMessage.get(0).floatValue();
        

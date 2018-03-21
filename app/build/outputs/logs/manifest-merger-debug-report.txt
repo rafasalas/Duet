@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:2:1-45:12
+ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:2:1-47:12
 MERGED from [com.android.support:design:25.3.1] C:\Users\salas\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\32ecc3014c00d7a84aeb3d21fef8c038\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\salas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\4aaae0d269be597fe2b49dc340bdad70\AndroidManifest.xml:17:1-31:12
 MERGED from [com.google.android.support:wearable:2.0.5] C:\Users\salas\.gradle\caches\transforms-1\files-1.1\wearable-2.0.5.aar\d132cf421e90596effc8a8cd1ebfbaec\AndroidManifest.xml:2:1-10:12
@@ -19,27 +19,27 @@ MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\salas\.gradle\
 MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\salas\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\750223630d1215231cdae1badc1bd90f\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:percent:26.0.0] C:\Users\salas\.gradle\caches\transforms-1\files-1.1\percent-26.0.0.aar\8b24774d1e23f1f96f6b3775b6120a6f\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-compat:26.0.0] C:\Users\salas\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\d76e0883d7ead56ec0d49c20afbe58b0\AndroidManifest.xml:17:1-31:12
-INJECTED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:2:1-47:12
 	package
-		ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:3:5-43
-		INJECTED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml
+		INJECTED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:5:5-30
-		INJECTED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml
+		INJECTED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml
+		INJECTED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml
 uses-sdk
-ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:7:5-9:41
-INJECTED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:7:5-9:41
-INJECTED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:7:5-9:41
+ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:design:25.3.1] C:\Users\salas\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\32ecc3014c00d7a84aeb3d21fef8c038\AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:design:25.3.1] C:\Users\salas\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\32ecc3014c00d7a84aeb3d21fef8c038\AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\salas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\4aaae0d269be597fe2b49dc340bdad70\AndroidManifest.xml:21:5-23:78
@@ -70,40 +70,48 @@ MERGED from [com.android.support:percent:26.0.0] C:\Users\salas\.gradle\caches\t
 MERGED from [com.android.support:percent:26.0.0] C:\Users\salas\.gradle\caches\transforms-1\files-1.1\percent-26.0.0.aar\8b24774d1e23f1f96f6b3775b6120a6f\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:26.0.0] C:\Users\salas\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\d76e0883d7ead56ec0d49c20afbe58b0\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:26.0.0] C:\Users\salas\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\d76e0883d7ead56ec0d49c20afbe58b0\AndroidManifest.xml:21:5-23:58
-INJECTED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:7:5-9:41
-INJECTED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:7:5-9:41
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:25.3.1] C:\Users\salas\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\32ecc3014c00d7a84aeb3d21fef8c038\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:9:9-38
-		INJECTED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml
+		INJECTED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:8:9-35
-		INJECTED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml
+		INJECTED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml
 uses-feature#android.software.live_wallpaper
-ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:11:5-68
+ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:11:5-68
 	android:name
-		ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:11:19-65
+		ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:11:19-65
 uses-permission#android.permission.INTERNET
-ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:13:5-67
+ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:13:5-67
 	android:name
-		ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:13:22-64
+		ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:13:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:14:5-81
+ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:14:5-81
 	android:name
-		ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:14:22-78
+		ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:14:22-78
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:15:5-75
+ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:15:5-75
 	android:name
-		ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:15:22-72
+		ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:15:22-72
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:16:5-80
+ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:16:5-80
 	android:name
-		ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:16:22-77
+		ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:16:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:17:5-71
+	android:name
+		ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:17:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:18:22-77
 application
-ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:18:5-43:19
+ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:19:5-45:19
 MERGED from [com.android.support:design:25.3.1] C:\Users\salas\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\32ecc3014c00d7a84aeb3d21fef8c038\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:design:25.3.1] C:\Users\salas\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\32ecc3014c00d7a84aeb3d21fef8c038\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\salas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\4aaae0d269be597fe2b49dc340bdad70\AndroidManifest.xml:29:5-20
@@ -135,47 +143,49 @@ MERGED from [com.android.support:percent:26.0.0] C:\Users\salas\.gradle\caches\t
 MERGED from [com.android.support:support-compat:26.0.0] C:\Users\salas\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\d76e0883d7ead56ec0d49c20afbe58b0\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:26.0.0] C:\Users\salas\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\d76e0883d7ead56ec0d49c20afbe58b0\AndroidManifest.xml:25:5-29:19
 	android:label
-		ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:20:9-37
+		ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:22:9-37
 	android:icon
-		ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:19:9-38
+		ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:21:9-38
+	android:name
+		ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:20:9-59
 activity#processing.test.wp_1_android.MainActivity
-ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:21:9-27:20
+ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:23:9-29:20
 	android:name
-		ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:21:19-47
+		ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:23:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:22:13-26:29
+ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:24:13-28:29
 action#android.intent.action.MAIN
-ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:23:17-69
+ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:23:25-66
+		ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:25:17-77
+ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:25:27-74
+		ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:27:27-74
 service#processing.test.wp_1_android.MainService
-ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:28:9-39:19
+ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:30:9-41:19
 	android:label
-		ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:30:13-41
+		ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:32:13-41
 	android:permission
-		ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:31:13-67
+		ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:33:13-67
 	android:name
-		ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:29:13-40
+		ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:31:13-40
 intent-filter#android.service.wallpaper.WallpaperService
-ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:32:13-34:29
+ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:34:13-36:29
 action#android.service.wallpaper.WallpaperService
-ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:33:17-85
+ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:35:17-85
 	android:name
-		ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:33:25-82
+		ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:35:25-82
 meta-data#android.service.wallpaper
-ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:36:13-38:53
+ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:38:13-40:53
 	android:resource
-		ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:38:17-50
+		ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:40:17-50
 	android:name
-		ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:37:17-57
+		ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:39:17-57
 activity#processing.android.PermissionRequestor
-ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:41:9-75
+ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:43:9-75
 	android:name
-		ADDED from D:\Google Drive\Toy\Processing\visualizadores_OSC\wp_1_Android\android\app\src\main\AndroidManifest.xml:41:19-72
+		ADDED from D:\rafa\lazona\gdrive2\Toy\Processing\android_2018\Duet\app\src\main\AndroidManifest.xml:43:19-72
 meta-data#android.support.VERSION
 ADDED from [com.android.support:design:25.3.1] C:\Users\salas\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\32ecc3014c00d7a84aeb3d21fef8c038\AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\salas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\4aaae0d269be597fe2b49dc340bdad70\AndroidManifest.xml:25:5-27:34

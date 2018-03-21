@@ -14,15 +14,19 @@
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
 
     <meta-data
         android:name="android.support.VERSION"
         android:value="25.3.1" />
 
     <application
+        android:name="processing.test.wp_1_android.global"
         android:debuggable="true"
         android:icon="@drawable/icon"
-        android:label="wp_1_Android" >
+        android:label="wp_1_Android"
+        android:testOnly="true" >
         <activity android:name="processing.test.wp_1_android.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
