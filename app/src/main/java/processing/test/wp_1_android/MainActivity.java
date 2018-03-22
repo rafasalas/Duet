@@ -13,9 +13,13 @@ import android.os.Bundle;
 import android.view.View;
 import android.view.Window;
 import android.widget.Button;
-
+import android.widget.RadioButton;
+import android.widget.RadioGroup;
 public class MainActivity extends Activity {
     private Button vamos;
+    private RadioGroup mFunction;
+    private RadioButton typeFunction;
+    public boolean isPlayer;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -24,6 +28,8 @@ public class MainActivity extends Activity {
         // Hide title bar
         requestWindowFeature(Window.FEATURE_NO_TITLE);
         setContentView(R.layout.activity_main);
+        isPlayer=true;
+        mFunction = (RadioGroup) findViewById(R.id.funcion);
         addlistenerOnButton();
 
         if (ActivityCompat.checkSelfPermission(this, Manifest.permission.RECORD_AUDIO) != PackageManager.PERMISSION_GRANTED)
@@ -31,7 +37,22 @@ public class MainActivity extends Activity {
             ActivityCompat.requestPermissions(this,new String[]{android.Manifest.permission.RECORD_AUDIO}, 1);
         }
         //
+        mFunction.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
+            public void onCheckedChanged(RadioGroup arg0, int id) {
+                switch (id) {
+                    case -1:
+                        //Log.v(TAG, "Choices cleared!");
+                        break;
+                    case R.id.player:
+                        isPlayer=true;
+                        break;
+                    case R.id.client:
+                        isPlayer=false;
+                        break;
 
+                }
+            }
+        });
 
     }
 
@@ -45,7 +66,7 @@ public class MainActivity extends Activity {
             @Override
             public void onClick(View v) {
                 final global dataglobal = (global) getApplicationContext();
-                dataglobal.setPlayer(true);
+                dataglobal.setPlayer(isPlayer);
 
                     WallpaperManager wallcachas = WallpaperManager.getInstance(getApplicationContext());
                     try {

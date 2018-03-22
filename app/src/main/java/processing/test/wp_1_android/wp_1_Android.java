@@ -114,31 +114,6 @@ public void setup (){//size (800,750, P2D);
 
 
 public void draw(){
-   //flujo=0;
- 
-
- 
-   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-
-
-
-
-
 
 
 background(color_fondo);
@@ -147,7 +122,7 @@ background(color_fondo);
   noFill();
     player=dataglobal.getPlayer();
 
-    if (player=true){flujo=dataglobal.getIntensity();}
+    if (player==true){flujo=dataglobal.getIntensity();}
 
   central.sentido=-1-flujo; 
 lateral1.sentido=-0.5f*flujo;
